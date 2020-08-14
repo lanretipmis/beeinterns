@@ -31,3 +31,10 @@ body{
     margin: 15px;
     background: plum;
 }
+
+.box{
+    width: 70px;
+    height: 70px;
+    margin: 15px;
+    background: black;
+}
